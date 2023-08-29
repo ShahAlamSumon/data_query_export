@@ -5,7 +5,7 @@
     'category': 'Tools',
     'author': 'Shah Alam Sumon',
     'version': '16.0.0.1',
-    'website': 'https://github.com/ShahAlamSumon/',
+    'website': 'https://github.com/ShahAlamSumon',
     'license': 'AGPL-3',
     'depends': ['base'],
     'images': ["static/description/banner.gif"],

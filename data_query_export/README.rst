@@ -34,22 +34,16 @@ Shah Alam Sumon
 
 Contributors
 ------------
-* Shah Alam Sumon <sacsesumon@gmail.com>
+* Shah Alam Sumon: sacsesumon@gmail.com
 
 Maintainer
 ----------
 
-   :alt: Shah Alam Sumon
-   :target: https://github.com/ShahAlamSumon
-
 This module is maintained by Shah Alam Sumon.
 
-Modifier
---------
+For support and more information, please visit https://github.com/ShahAlamSumon
 
-   :alt: Shah Alam Sumon
-   :target: https://github.com/ShahAlamSumon
-
-This module is modified by Shah Alam Sumon.
+Contribution
+------------
 
 To contribute to this module, please visit https://github.com/ShahAlamSumon
